@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Streamlit
+.streamlit/
+
+# Env & secrets
+.env
+
+# Runtime artifacts
+Resume.pdf
+JD.txt
+
+
+# OS
+.DS_Store
+Thumbs.db
